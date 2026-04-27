@@ -27,9 +27,10 @@ LDG V2は以下の「不変原則」を設計の根底に置く。
 - **Majority Quorum:** 3つの実行ノードの出力が完全一致することを最終出力の条件とする。
 
 ## 4. Logical Flow (Mermaid Sequence)
-以下のシーケンスは、入力データの検証から実行までの論理プロセスを示す。
 
-(Logical Flow.png)
+![以下のシーケンスは、入力データの検証から実行までの論理プロセスを示す。
+](images/Logical Flow.png)
+
 
 ## 5. Security Analysis
 - **AI推論攻撃への耐性:** AIが発見する「未知の脆弱性」は、数学的証明により設計段階で排除されている。
