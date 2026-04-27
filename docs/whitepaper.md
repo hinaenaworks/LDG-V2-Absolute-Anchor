@@ -26,7 +26,7 @@ LDG V2は以下の「不変原則」を設計の根底に置く。
   - RISC-V
 - **Majority Quorum:** 3つの実行ノードの出力が完全一致することを最終出力の条件とする。
 
-## 4. Logical Flow (Mermaid Sequence)
+## 4. Logical Flow
 
 以下のシーケンスは、入力データの検証から実行までの論理プロセスを示す。
 
