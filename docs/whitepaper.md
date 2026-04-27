@@ -28,8 +28,9 @@ LDG V2は以下の「不変原則」を設計の根底に置く。
 
 ## 4. Logical Flow (Mermaid Sequence)
 
-![以下のシーケンスは、入力データの検証から実行までの論理プロセスを示す。
-](images/Logical Flow.png)
+以下のシーケンスは、入力データの検証から実行までの論理プロセスを示す。
+
+![](images/Logical Flow.png)
 
 
 ## 5. Security Analysis
