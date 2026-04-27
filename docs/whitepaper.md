@@ -29,7 +29,7 @@ LDG V2は以下の「不変原則」を設計の根底に置く。
 ## 4. Logical Flow (Mermaid Sequence)
 以下のシーケンスは、入力データの検証から実行までの論理プロセスを示す。
 
-( ```mermaid
+```mermaid
 sequenceDiagram
     participant P as Physical Layer (TRNG/Key)
     participant V as Verification Gate (Formal)
@@ -41,7 +41,7 @@ sequenceDiagram
     V->>E: 実行命令のブロードキャスト
     E->>E: 異種環境での並行演算
     E->>O: 多数決合意後の出力
-``` )
+```
 
 ## 5. Security Analysis
 - **AI推論攻撃への耐性:** AIが発見する「未知の脆弱性」は、数学的証明により設計段階で排除されている。
