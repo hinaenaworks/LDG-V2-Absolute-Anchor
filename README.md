@@ -19,7 +19,7 @@ LDG V2 (Logical Defense Grid Version 2) は、自律型AI（Claud Mythos等）�
 システムの詳細な技術仕様、論理的根拠、および実装詳細については、以下のドキュメントを参照してください。
 
 * [**LDG V2 Technical Specification (Whitepaper)**](docs/whitepaper.md)
-* [**Implementation Blueprint (Technical Guide)**](docs/IMPLEMENTATION.md)
+* [**Implementation Blueprint (Technical Guide)**](src/IMPLEMENTATION.md)
 
 ## システムアーキテクチャ
 ![Logical Flow](Logical_Flow.png)
