@@ -30,7 +30,7 @@ LDG V2は以下の「不変原則」を設計の根底に置く。
 
 以下のシーケンスは、入力データの検証から実行までの論理プロセスを示す。
 
-![](Logical Flow.png)
+![Logical Flow.png](Logical Flow.png)
 
 
 ## 5. Security Analysis
