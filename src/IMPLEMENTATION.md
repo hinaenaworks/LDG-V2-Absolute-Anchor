@@ -85,5 +85,5 @@ unsigned int get_physical_entropy() {
 
 ## 5. 実行環境の分離（Docker/QEMU）
 開発・検証環境では以下の構造で異種ISAをエミュレートする。
-![画像の説明](diagram.png)
+![Docker_QEMU.png](Docker_QEMU.png)
 
